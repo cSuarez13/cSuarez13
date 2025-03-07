@@ -1,1 +1,23 @@
-Hello! I'm Claudia Suarez, currently seeking a co-op opportunity. I'm a dedicated programmer and mathematician with a passion for tackling complex challenges through technology. My GitHub profile features diverse projects, including a full-stack meal delivery web app and a responsive personal website, demonstrating proficiency in Node.js, MongoDB, and web development. With expertise in mathematical modeling and data analysis from projects like a disaster relief inventory system and stochastic simulations, I bring a strong blend of programming skills and analytical insight. Let's connect to discuss how I can contribute to your team.
+🚀 Computer Programming & Analysis student at Seneca Polytechnic | Mathematics graduate from University of Havana
+
+💻 Full-stack developer with expertise in:
+- Backend: Node.js, Express, Java
+- Frontend: HTML5, CSS3, Next.js, Tailwind CSS, Bootstrap, JavaFX
+- Databases: MongoDB, PostgreSQL, Oracle SQL
+- Languages: JavaScript, Python, R, C, C++, Java
+
+📊 Mathematical background with experience in computational modeling and data analysis
+
+🔬 Research experience:
+- Developed SIDARTHE-based stochastic simulation models for COVID-19 analysis in Python
+- Applied statistical methods and probability distributions for realistic scenario modeling
+
+🔍 Recent projects:
+- Fragments API: RESTful microservice for storing and managing text/image fragments
+- Taco 'Bout It: Full-stack meal delivery web app with Node.js, Express, MongoDB
+- PopcornBuddy: Movie discovery platform with Next.js and TMDB API
+- Desktop applications: Built cross-platform solutions with Java and JavaFX
+
+🔗 Previous experience: IT Service Desk at FSRA | Research Assistant in epidemiological modeling
+
+📫 Reach me at: csuarez.socorro@gmail.com
