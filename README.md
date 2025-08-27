@@ -1,23 +1,48 @@
-🚀 Computer Programming & Analysis student at Seneca Polytechnic | Mathematics graduate from University of Havana
+🎓 Recent Graduate – Advanced Diploma in Computer Programming & Analysis (Honours) from Seneca Polytechnic | B.A. in Mathematics from the University of Havana
 
-💻 Full-stack developer with expertise in:
-- Backend: Node.js, Express, Java
-- Frontend: HTML5, CSS3, Next.js, Tailwind CSS, Bootstrap, JavaFX
-- Databases: MongoDB, PostgreSQL, Oracle SQL
-- Languages: JavaScript, Python, R, C, C++, Java
+💻 Programmer & Mathematician with expertise in:
 
-📊 Mathematical background with experience in computational modeling and data analysis
+Backend: Node.js, Express.js, Java, C/C++, Python, PL/SQL
 
-🔬 Research experience:
-- Developed SIDARTHE-based stochastic simulation models for COVID-19 analysis in Python
-- Applied statistical methods and probability distributions for realistic scenario modeling
+Frontend: React, Next.js, JavaFX, HTML5/CSS3, Tailwind CSS, Bootstrap
 
-🔍 Recent projects:
-- Fragments API: RESTful microservice for storing and managing text/image fragments
-- Taco 'Bout It: Full-stack meal delivery web app with Node.js, Express, MongoDB
-- PopcornBuddy: Movie discovery platform with Next.js and TMDB API
-- Desktop applications: Built cross-platform solutions with Java and JavaFX
+Mobile: Android (Kotlin/Java), React Native, cross-platform development
 
-🔗 Previous experience: IT Service Desk at FSRA | Research Assistant in epidemiological modeling
+Databases: MongoDB, PostgreSQL, Oracle SQL, MySQL
 
-📫 Reach me at: csuarez.socorro@gmail.com
+Cloud & DevOps: AWS (S3, DynamoDB, ECS), Docker, CI/CD pipelines
+
+📊 Mathematical & Research Strengths:
+
+Strong foundation in algebra, analysis, probability, and differential equations
+
+Research experience in epidemiological modeling, stochastic simulations, and computational statistics
+
+COVID-19 statistical modeling using Python
+
+🏆 Academic Achievements:
+
+President’s Honour List | Graduated with Honours
+
+Interdisciplinary background bridging mathematics, programming, and research
+
+🚀 Featured Projects:
+
+Fragments Microservice: Cloud-based data management system with AWS deployment
+
+Band Radar: AI-powered concert discovery app with React Native and Claude API
+
+ByteBasket: Food bank management system with full-stack architecture
+
+PopcornBuddy: Movie discovery platform with Next.js and MongoDB
+
+COVID-19 Simulation: Stochastic + deterministic epidemiological modeling in Python
+
+💼 Professional Experience:
+
+IT Service Desk Co-op – Financial Services Regulatory Authority (FSRA)
+
+Research Assistant – University of Havana (epidemiological modeling & statistical analysis)
+
+🌟 Currently: Open to entry-level opportunities in software development, applied mathematics, data science, or research
+📫 Let’s Connect: [Email](mailto:csuarez.socorro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/claudia-suarez-a27b09265)
