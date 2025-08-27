@@ -45,4 +45,5 @@ IT Service Desk Co-op – Financial Services Regulatory Authority (FSRA)
 Research Assistant – University of Havana (epidemiological modeling & statistical analysis)
 
 🌟 Currently: Open to entry-level opportunities in software development, applied mathematics, data science, or research
+
 📫 Let’s Connect: [Email](mailto:csuarez.socorro@gmail.com) | [LinkedIn](https://www.linkedin.com/in/claudia-suarez-a27b09265)
